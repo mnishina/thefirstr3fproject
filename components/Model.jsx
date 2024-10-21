@@ -38,7 +38,7 @@ function Model() {
     transmission: 1.0,
     ior: 1.2,
     chromaticAberration: 0.14,
-    backside: true,
+    backside: false,
   };
 
   return (
